@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+
+# Node.js
+node_modules/
+dist/
+
+# Django
+*.sqlite3
+media/
+
+# 환경 설정 파일
+# .env
